@@ -1,8 +1,8 @@
 Our Server 
 
 ## first use
-     you need to run `npm install`
-     
+you need to run `npm install`
+
 ## Build
 
 Run `$env:DEBUG='express-server:*'; npm start`
